@@ -1,6 +1,6 @@
 import random
 
-print("Rimaz")
+print("Rimaz Khan")
 a = random.randint(0, 100);
 b = random.randint(0, 100);
 
